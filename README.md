@@ -1,4 +1,4 @@
-A Next.js application made for studying the framework.
+## A Next.js app to learn the framework.
 
 Deployed to Vercel. To see and test click [here](https://next-tuts-seven.vercel.app)
 
